@@ -2,6 +2,12 @@
 
 Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https://sourceforge.net/projects/pcb/files/?source=navbar).
 
+## pcb-4.0.x series
+
+![pcb-4.0.x_daily](pcb-4.0.x_daily.png)
+
+![pcb-4.0.x_monthly](pcb-4.0.x_monthly.png)
+
 ## pcb-4.0.2
 
 ![pcb-4.0.2_daily](pcb-4.0.2_daily.png)
