@@ -7,7 +7,7 @@ set yrange [0:]
 set ylabel "Number of monthly downloads [-]"
 set grid y
 # set X-axis
-set xlabel "Datum"
+set xlabel "Date"
 set timefmt "%Y-%m"
 set xdata time
 set format x "%Y-%m"

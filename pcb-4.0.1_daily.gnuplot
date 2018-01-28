@@ -7,7 +7,7 @@ set autoscale y
 set ylabel "Number of daily downloads [-]"
 set grid y
 # set X-axis
-set xlabel "Datum"
+set xlabel "Date"
 set timefmt "%Y-%m-%d"
 set xdata time
 set format x "%Y-%m-%d"
