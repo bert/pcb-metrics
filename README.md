@@ -1,3 +1,3 @@
-# pcb-statistics
+# pcb-metrics
 
-Download statistics for [pcb](https://sourceforge.net/projects/pcb/files/?source=navbar) from SourceForge
+Download metrics for [pcb](https://sourceforge.net/projects/pcb/files/?source=navbar) from SourceForge
