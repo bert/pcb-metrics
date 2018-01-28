@@ -1,6 +1,6 @@
 # pcb-metrics
 
-Download metrics for [pcb](https://sourceforge.net/projects/pcb/files/?source=navbar) from SourceForge
+Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https://sourceforge.net/projects/pcb/files/?source=navbar).
 
 ## pcb-4.0.0
 
