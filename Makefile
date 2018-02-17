@@ -9,6 +9,7 @@ png_TARGETS := $(patsubst %.gnuplot,%.png,$(gnuplot_SOURCES))
 
 all: \
 	$(png_TARGETS)
+	mv *.png graphs
 
 clean:
 	rm -f *.png *~
