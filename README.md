@@ -48,3 +48,8 @@ Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https
 
 ![pcb-20140316_OS](graphs/pcb-20140316_OS.png)
 
+## pcb per release downloads
+
+![pcb-alltime](graphs/pcb-alltime.png)
+
+(last update on 2018-03-22)
