@@ -52,4 +52,4 @@ Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https
 
 ![pcb-alltime](gnuplot/graphs/pcb-alltime.png)
 
-(last update on 2018-03-22)
+(data last updated on 2018-03-22)
