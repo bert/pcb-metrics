@@ -2,6 +2,12 @@
 
 Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https://sourceforge.net/projects/pcb/files/?source=navbar).
 
+## pcb-4.x series
+
+![pcb-4.x_daily](gnuplot/graphs/pcb-4.x_daily.png)
+
+![pcb-4.x_monthly](gnuplot/graphs/pcb-4.x_monthly.png)
+
 ## pcb-4.1.0
 
 ![pcb-4.1.0_daily](gnuplot/graphs/pcb-4.1.0_daily.png)
@@ -9,12 +15,6 @@ Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https
 ![pcb-4.1.0_monthly](gnuplot/graphs/pcb-4.1.0_monthly.png)
 
 ![pcb-4.1.0.OS](gnuplot/graphs/pcb-4.1.0_OS.png)
-
-## pcb-4.0.x series
-
-![pcb-4.0.x_daily](gnuplot/graphs/pcb-4.0.x_daily.png)
-
-![pcb-4.0.x_monthly](gnuplot/graphs/pcb-4.0.x_monthly.png)
 
 ## pcb-4.0.2
 
