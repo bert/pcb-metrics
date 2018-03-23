@@ -4,52 +4,52 @@ Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https
 
 ## pcb-4.1.0
 
-![pcb-4.1.0_daily](graphs/pcb-4.1.0_daily.png)
+![pcb-4.1.0_daily](gnuplot/graphs/pcb-4.1.0_daily.png)
 
-![pcb-4.1.0_monthly](graphs/pcb-4.1.0_monthly.png)
+![pcb-4.1.0_monthly](gnuplot/graphs/pcb-4.1.0_monthly.png)
 
-![pcb-4.1.0.OS](graphs/pcb-4.1.0_OS.png)
+![pcb-4.1.0.OS](gnuplot/graphs/pcb-4.1.0_OS.png)
 
 ## pcb-4.0.x series
 
-![pcb-4.0.x_daily](graphs/pcb-4.0.x_daily.png)
+![pcb-4.0.x_daily](gnuplot/graphs/pcb-4.0.x_daily.png)
 
-![pcb-4.0.x_monthly](graphs/pcb-4.0.x_monthly.png)
+![pcb-4.0.x_monthly](gnuplot/graphs/pcb-4.0.x_monthly.png)
 
 ## pcb-4.0.2
 
-![pcb-4.0.2_daily](graphs/pcb-4.0.2_daily.png)
+![pcb-4.0.2_daily](gnuplot/graphs/pcb-4.0.2_daily.png)
 
-![pcb-4.0.2_monthly](graphs/pcb-4.0.2_monthly.png)
+![pcb-4.0.2_monthly](gnuplot/graphs/pcb-4.0.2_monthly.png)
 
-![pcb-4.0.2_OS](graphs/pcb-4.0.2_OS.png)
+![pcb-4.0.2_OS](gnuplot/graphs/pcb-4.0.2_OS.png)
 
 ## pcb-4.0.1
 
-![pcb-4.0.1_daily](graphs/pcb-4.0.1_daily.png)
+![pcb-4.0.1_daily](gnuplot/graphs/pcb-4.0.1_daily.png)
 
-![pcb-4.0.1_monthly](graphs/pcb-4.0.1_monthly.png)
+![pcb-4.0.1_monthly](gnuplot/graphs/pcb-4.0.1_monthly.png)
 
-![pcb-4.0.1_OS](graphs/pcb-4.0.1_OS.png)
+![pcb-4.0.1_OS](gnuplot/graphs/pcb-4.0.1_OS.png)
 
 ## pcb-4.0.0
 
-![pcb-4.0.0_daily](graphs/pcb-4.0.0_daily.png)
+![pcb-4.0.0_daily](gnuplot/graphs/pcb-4.0.0_daily.png)
 
-![pcb-4.0.0_monthly](graphs/pcb-4.0.0_monthly.png)
+![pcb-4.0.0_monthly](gnuplot/graphs/pcb-4.0.0_monthly.png)
 
-![pcb-4.0.0_OS](graphs/pcb-4.0.0_OS.png)
+![pcb-4.0.0_OS](gnuplot/graphs/pcb-4.0.0_OS.png)
 
 ## pcb-20140316
 
-![pcb-20140316_daily](graphs/pcb-20140316_daily.png)
+![pcb-20140316_daily](gnuplot/graphs/pcb-20140316_daily.png)
 
-![pcb-20140316_monthly](graphs/pcb-20140316_monthly.png)
+![pcb-20140316_monthly](gnuplot/graphs/pcb-20140316_monthly.png)
 
-![pcb-20140316_OS](graphs/pcb-20140316_OS.png)
+![pcb-20140316_OS](gnuplot/graphs/pcb-20140316_OS.png)
 
 ## pcb per release downloads
 
-![pcb-alltime](graphs/pcb-alltime.png)
+![pcb-alltime](gnuplot/graphs/pcb-alltime.png)
 
 (last update on 2018-03-22)
