@@ -11,7 +11,7 @@ set xlabel "Date"
 set timefmt "%Y-%m-%d"
 set xdata time
 set format x "%Y-%m-%d"
-set xrange ["2018-01-01":]
+set xrange ["2018-04-07":]
 set grid x
 set xtic rotate by 90 scale 0 offset 0.5,0
 # plot data
