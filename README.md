@@ -8,7 +8,23 @@ Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https
 
 ![pcb-4.x_monthly](gnuplot/graphs/pcb-4.x_monthly.png)
 
-## pcb-4.1.0
+## pcbinst-4.1.1.exe
+
+![pcb-4.1.1_daily_win](gnuplot/graphs/pcb-4.1.1_daily_win.png)
+
+![pcb-4.1.1_monthly_win](gnuplot/graphs/pcb-4.1.1_monthly_win.png)
+
+![pcb-4.1.1.OS_win](gnuplot/graphs/pcb-4.1.1_OS_win.png)
+
+## pcb-4.1.1.tar.gz
+
+![pcb-4.1.1_daily](gnuplot/graphs/pcb-4.1.1_daily.png)
+
+![pcb-4.1.1_monthly](gnuplot/graphs/pcb-4.1.1_monthly.png)
+
+![pcb-4.1.1.OS](gnuplot/graphs/pcb-4.1.1_OS.png)
+
+## pcb-4.1.0.tar.gz
 
 ![pcb-4.1.0_daily](gnuplot/graphs/pcb-4.1.0_daily.png)
 
@@ -16,7 +32,7 @@ Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https
 
 ![pcb-4.1.0.OS](gnuplot/graphs/pcb-4.1.0_OS.png)
 
-## pcb-4.0.2
+## pcb-4.0.2.tar.gz
 
 ![pcb-4.0.2_daily](gnuplot/graphs/pcb-4.0.2_daily.png)
 
@@ -24,7 +40,7 @@ Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https
 
 ![pcb-4.0.2_OS](gnuplot/graphs/pcb-4.0.2_OS.png)
 
-## pcb-4.0.1
+## pcb-4.0.1.tar.gz
 
 ![pcb-4.0.1_daily](gnuplot/graphs/pcb-4.0.1_daily.png)
 
@@ -32,7 +48,7 @@ Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https
 
 ![pcb-4.0.1_OS](gnuplot/graphs/pcb-4.0.1_OS.png)
 
-## pcb-4.0.0
+## pcb-4.0.0.tar.gz
 
 ![pcb-4.0.0_daily](gnuplot/graphs/pcb-4.0.0_daily.png)
 
@@ -40,7 +56,7 @@ Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https
 
 ![pcb-4.0.0_OS](gnuplot/graphs/pcb-4.0.0_OS.png)
 
-## pcb-20140316
+## pcb-20140316.tar.gz
 
 ![pcb-20140316_daily](gnuplot/graphs/pcb-20140316_daily.png)
 
@@ -52,4 +68,4 @@ Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https
 
 ![pcb-alltime](gnuplot/graphs/pcb-alltime.png)
 
-(data last updated on 2018-04-05)
+(data last updated on 2018-05-07)
