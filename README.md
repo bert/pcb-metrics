@@ -1,6 +1,6 @@
 # pcb-metrics
 
-Statistical metrics for the pcb git repository can be found [here](gitstat/index.html).
+Statistical metrics for the pcb git repository can be found [here](http://ljh4timm.home.xs4all.nl/gaf/pcb-gitstats/index.html).
 
 Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https://sourceforge.net/projects/pcb/files/?source=navbar).
 
