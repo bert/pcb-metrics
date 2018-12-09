@@ -1,0 +1,34 @@
+os:
+  - linux
+
+addons:
+  apt:
+    packages:
+      - gnuplot
+
+before_install:
+  - sudo apt-get -qq update
+
+script: scripts/build.sh
+
+# blacklist
+branches:
+  except:
+    - gh-pages
+
+# whitelist
+branches:
+  only:
+    - master
+
+notifications:
+  recipients:
+    - bert.timmerman@xs4all.nl
+  email:
+    on_success: change
+    on_failure: always
+
+git:
+  depth:
+    false
+
