@@ -12,6 +12,22 @@ Download metrics for [pcb](http://pcb.geda-project.org) from [SourceForge](https
 
 ![pcb-4.x_alltime](gnuplot/graphs/pcb-4.x_alltime.png)
 
+## pcbinst-4.2.0.exe
+
+![pcb-4.2.0_daily_win](gnuplot/graphs/pcb-4.2.0_daily_win.png)
+
+![pcb-4.2.0_monthly_win](gnuplot/graphs/pcb-4.2.0_monthly_win.png)
+
+![pcb-4.2.0.OS_win](gnuplot/graphs/pcb-4.2.0_OS_win.png)
+
+## pcb-4.2.0.tar.gz
+
+![pcb-4.2.0_daily](gnuplot/graphs/pcb-4.2.0_daily.png)
+
+![pcb-4.2.0_monthly](gnuplot/graphs/pcb-4.2.0_monthly.png)
+
+![pcb-4.2.0.OS](gnuplot/graphs/pcb-4.2.0_OS.png)
+
 ## pcbinst-4.1.3.exe
 
 ![pcb-4.1.3_daily_win](gnuplot/graphs/pcb-4.1.3_daily_win.png)
