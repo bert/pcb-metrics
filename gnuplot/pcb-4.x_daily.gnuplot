@@ -26,7 +26,9 @@ plot 'data/pcb-4.0.0_daily.data' using 1:2 title "pcb-4.0.0.tar.gz" with linespo
      'data/pcb-4.1.3_daily.data' using 1:2 title "pcb-4.1.3.tar.gz" with linespoints, \
      'data/pcb-4.1.3_daily_win.data' using 1:2 title "pcbinst-4.1.3.exe" with linespoints, \
      'data/pcb-4.2.0_daily.data' using 1:2 title "pcb-4.2.0.tar.gz" with linespoints, \
-     'data/pcb-4.2.0_daily_win.data' using 1:2 title "pcbinst-4.2.0.exe" with linespoints
+     'data/pcb-4.2.0_daily_win.data' using 1:2 title "pcbinst-4.2.0.exe" with linespoints, \
+     'data/pcb-4.2.1_daily.data' using 1:2 title "pcb-4.2.1.tar.gz" with linespoints, \
+     'data/pcb-4.2.1_daily_win.data' using 1:2 title "pcbinst-4.2.1.exe" with linespoints
 # set output back to default
 set output
 # reset terminal type
