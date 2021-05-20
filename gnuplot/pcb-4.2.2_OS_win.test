@@ -1,0 +1,35 @@
+# draws a pie chart.
+# the 'stats' command requires >= gnuplot-4.6.0
+
+set term png
+set output "pcb-4.2.2_OS_win_test.png"
+set title "pcbinst-4.2.2.exe downloads by OS"
+
+#set datafile separator ','
+stats 'data/pcb-4.2.2_OS_win.data' u 2 noout # get STATS_sum (sum of column 2), suppress output
+angle(x)=x*360.0/STATS_sum                   # get angle in degrees
+perc(x)=x*100.0/STATS_sum                    # get percentage
+
+set size square
+set xrange [-1:1.5]
+set yrange [-1.25:1.25]
+set style fill solid 1
+
+unset border
+unset tics
+unset key
+
+Ai = 0.0; Bi = 0.0;  # init angle
+mid = 0.0;           # mid angle
+i = 0; j = o;        # color
+yi = 0.0; yi2 = 0.0; # label position
+
+plot 'data/pcb-4.2.2_OS_win.data' using (0):(0):(1):(Ai=Ai+ang($2)):(i=i+1) with circle linecolor var,\
+     'data/pcb-4.2.2_OS_win.data' using (1.5):(yi=yi+0.5/STATS_records):($1) w lables,\
+     'data/pcb-4.2.2_OS_win.data' using (1.3):(yi2=yi2+0.5/STATS_records):(j=j+1) w p pt 5 ps 2 linecolor var,\
+     'data/pcb-4.2.2_OS_win.data' using (mid=Bi+ang($2)*pi/360.0, Bi=2.0*mid-Bi, 0.5*cos(mid)):(0.5*sin(mid):(sprintf(%.1f\%)', $2, perc($2))) w labels
+
+# set output back to default
+set output
+# reset terminal type
+set terminal pop
