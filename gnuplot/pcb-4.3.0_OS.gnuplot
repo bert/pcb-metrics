@@ -6,11 +6,11 @@ set style fill solid border -1
 set ylabel "Number of downloads [-]"
 set autoscale y
 set grid y
-set xlabel ""
+set xlabel "Operating System" offset 0,-4
 set boxwidth 1.0 relative
 set autoscale x
 #set grid x
-set xtic rotate by 90 scale 0 offset 1.0,0
+set xtic offset 0,-4.5 rotate by 90
 plot 'data/pcb-4.3.0_OS.data' using 2:xticlabels(1) title ""
 # set output back to default
 set output
