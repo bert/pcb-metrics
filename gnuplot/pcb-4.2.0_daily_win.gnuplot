@@ -13,7 +13,7 @@ set xdata time
 set format x "%Y-%m-%d"
 set xrange ["2019-02-02":]
 set grid x
-set xtic rotate by 90 scale 0 offset 0.5,0
+set xtic rotate by 90 scale 0 offset 0.5,0 right 
 # plot data
 plot 'data/pcb-4.2.0_daily_win.data' using 1:2 title ""
 # set output back to default
