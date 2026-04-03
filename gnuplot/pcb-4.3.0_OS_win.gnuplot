@@ -10,7 +10,7 @@ set xlabel "Operating System" offset 0,-4
 set boxwidth 1.0 relative
 set autoscale x
 #set grid x
-set xtic offset 0,-4.5 rotate by 90
+set xtic offset 0,-4.5 rotate by 90 right
 plot 'data/pcb-4.3.0_OS_win.data' using 2:xticlabels(1) title ""
 # set output back to default
 set output
