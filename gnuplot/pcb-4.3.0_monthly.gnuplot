@@ -13,7 +13,7 @@ set xdata time
 set format x "%Y-%m"
 set xrange ["2021-03":]
 set grid x
-set xtic offset 0,-4.5 rotate by 90
+set xtic offset 0,-4.5 rotate by 90 right
 # plot data
 plot 'data/pcb-4.3.0_monthly.data' using 1:2 title ""
 # set output back to default
