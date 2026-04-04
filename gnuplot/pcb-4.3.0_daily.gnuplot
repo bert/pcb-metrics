@@ -7,13 +7,13 @@ set autoscale y
 set ylabel "Number of daily downloads [-]"
 set grid y
 # set X-axis
-set xlabel "Date" offset 0,-4
+set xlabel "Date"
 set timefmt "%Y-%m-%d"
 set xdata time
 set format x "%Y-%m-%d"
 set xrange ["2021-03-01":]
 set grid x
-set xtic offset 0,-4.5 rotate by 90 right
+set xtic rotate by 90 scale 0 offset 0.5,0 right
 # plot data
 plot 'data/pcb-4.3.0_daily.data' using 1:2 title ""
 # set output back to default
