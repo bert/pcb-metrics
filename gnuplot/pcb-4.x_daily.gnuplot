@@ -14,7 +14,7 @@ set xdata time
 set format x "%Y-%m-%d"
 set xrange ["2017-01-01":]
 set grid x
-set xtic rotate by 90 scale 0 offset 0.5,0
+set xtic rotate by 90 scale 0 offset 0.5,0 right
 # plot data
 plot 'data/pcb-4.0.0_daily.data' using 1:2 title "pcb-4.0.0.tar.gz" with linespoints, \
      'data/pcb-4.0.1_daily.data' using 1:2 title "pcb-4.0.1.tar.gz" with linespoints, \
